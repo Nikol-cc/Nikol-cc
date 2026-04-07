@@ -24,5 +24,5 @@
 
 **GitHub Stats:**
 
-![maomao's github stats](https://github-readme-stats.vercel.app/api?username=Nikol-cc&show_icons=true&hide_title=true&count_private=true)
+![Nikol-cc's github stats](https://github-readme-stats.vercel.app/api?username=Nikol-cc&show_icons=true&hide_title=true&count_private=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nikol-cc&layout=compact)
