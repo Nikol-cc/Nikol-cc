@@ -30,8 +30,9 @@
 
 **GitHub Stats:**
 
-[![Nikol-cc's github stats](https://github-readme-stats.vercel.app/api?username=Nikol-cc&show_icons=true&hide_title=true&count_private=true)](https://github.com/Nikol-cc)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nikol-cc&layout=compact)](https://github.com/Nikol-cc)
+[![Followers](https://img.shields.io/github/followers/Nikol-cc?style=flat-square)](https://github.com/Nikol-cc?tab=followers)
+[![Stars](https://img.shields.io/github/stars/Nikol-cc?style=flat-square)](https://github.com/Nikol-cc?tab=repositories)
+[![Last commit](https://img.shields.io/github/last-commit/Nikol-cc/Nikol-cc?style=flat-square)](https://github.com/Nikol-cc/Nikol-cc/commits/main)
 
 **Contact:**
 
