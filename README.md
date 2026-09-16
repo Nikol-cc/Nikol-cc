@@ -1,28 +1,40 @@
-### Hi there, I'm Nikol2002 👋
+### Hi there, I'm Nikol 👋
 
 <pre>
-心之所行，行之所往！
-                              -- 一个想躺平的小开发
+记录嵌入式、Linux 与 FPGA 实践，持续把问题拆开、把系统跑通。
+                         -- 一个持续折腾嵌入式系统的工程师
 </pre>
 
-**About Me:** <img src="https://visitor-badge.laobi.icu/badge?page_id=Nikol-cc.Nikol-cc" align="center" alt="visitors">
+**About Me:** <img src="https://visitor-badge.laobi.icu/badge?page_id=Nikol-cc.Nikol-cc" alt="visitors" />
 
-<img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="260" align="right" alt="">
+<img align="right" width="280" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" alt="coding" />
 
-|   主&emsp;页   | <https://todo>                                      |
-| :------------: | :------------------------------------------------------- |
-| **博&emsp;客** | **<https://todo>**                            |
-| **笔&emsp;记** | **<https://todo>**          |
-|   **播放器**   | **<https://todo>**                    |
+| **主 页** | [https://nikol.bbs0.cc](https://nikol.bbs0.cc/) |
+| --- | --- |
+| **嵌入式物语** | [ARM / Linux / FPGA](https://nikol.bbs0.cc/arm-linux-fpga/) |
+| **源码阅读** | [启动链、内核、驱动、DMA、FPGA / RTL](https://nikol.bbs0.cc/analysis/) |
+| **工作流** | [C/C++、Python、设备树、内核与工具链](https://nikol.bbs0.cc/workflow/) |
 
+**Languages & Platforms:**
 
-**Languages:**
-
-![嵌入式](https://img.shields.io/badge/%E5%B5%8C%E5%85%A5%E5%BC%8F-blue)
-![C/C++](https://img.shields.io/badge/C%2FC%2B%2B-blue)
-![Python](https://img.shields.io/badge/Python-blue)
+![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=fff)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?logo=cplusplus&logoColor=fff)
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)
+![Verilog](https://img.shields.io/badge/Verilog-1F4E79?logo=verilog&logoColor=fff)
+![ARM](https://img.shields.io/badge/ARM-E34F26?logo=arm&logoColor=fff)
+![Linux](https://img.shields.io/badge/Linux-333333?logo=linux&logoColor=fff)
+![FPGA](https://img.shields.io/badge/FPGA-8E24AA?logo=xilinx&logoColor=fff)
+![GD32](https://img.shields.io/badge/GD32-1565C0?logo=arm&logoColor=fff)
+![RTOS](https://img.shields.io/badge/RTOS-546E7A?logo=freertos&logoColor=fff)
+![EIDE](https://img.shields.io/badge/EIDE-1565C0?logo=visualstudiocode&logoColor=fff)
 
 **GitHub Stats:**
 
-![Nikol-cc's github stats](https://github-readme-stats.vercel.app/api?username=Nikol-cc&show_icons=true&hide_title=true&count_private=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nikol-cc&layout=compact)
+[![Nikol-cc's github stats](https://github-readme-stats.vercel.app/api?username=Nikol-cc&show_icons=true&hide_title=true&count_private=true)](https://github.com/Nikol-cc)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nikol-cc&layout=compact)](https://github.com/Nikol-cc)
+
+**Contact:**
+
+- GitHub: [Nikol-cc](https://github.com/Nikol-cc)
+- WeChat: Nikol_Y
+- QQ: 2774364491
