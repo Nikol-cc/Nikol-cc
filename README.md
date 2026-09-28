@@ -1,8 +1,8 @@
 ### Hi there, I'm Nikol 👋
 
 <pre>
-记录嵌入式、Linux 与 FPGA 实践，持续把问题拆开、把系统跑通。
-                         -- 一个持续折腾嵌入式系统的工程师
+心之所向、行之所往！
+                         -- 一个只想躺平的小开发
 </pre>
 
 **About Me:** <img src="https://visitor-badge.laobi.icu/badge?page_id=Nikol-cc.Nikol-cc" alt="visitors" />
